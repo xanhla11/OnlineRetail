@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{2A5CC284-519C-4FAC-96D8-6151100D6526}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.OnlineRetail PreferredExecutionTarget="/Applications/Google Chrome Beta.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineRetail/Program.cs">
+    <Files>
+      <File FileName="OnlineRetail/Program.cs" Line="40" Column="1" />
+      <File FileName="OnlineRetail/appsettings.json" />
+      <File FileName="OnlineRetail/Properties/launchSettings.json" />
+      <File FileName="OnlineRetail/Models/Provider.cs" />
+      <File FileName="OnlineRetail/Models/OnlineRetailContext.cs" />
+      <File FileName="OnlineRetail/Models/Repository.cs" />
+      <File FileName="OnlineRetail/Models/Products.cs" />
+      <File FileName="OnlineRetail/Models/SiteProvider.cs" />
+      <File FileName="OnlineRetail/Models/ProductRepository.cs" />
+      <File FileName="OnlineRetail/Controllers/ProductsController.cs" />
+      <File FileName="OnlineRetail/Models/Category.cs" />
+      <File FileName="OnlineRetail/Models/CategoryRepository.cs" />
+      <File FileName="OnlineRetail/Controllers/CategoryController.cs" />
+      <File FileName="OnlineRetail/Controllers/CartController.cs" />
+      <File FileName="OnlineRetail/Models/productImage.cs" />
+      <File FileName="OnlineRetail/Models/Member.cs" />
+      <File FileName="OnlineRetail/Models/MemberRepository.cs" />
+      <File FileName="OnlineRetail/Models/RegisterModel.cs" />
+      <File FileName="OnlineRetail/Controllers/AuthController.cs" />
+      <File FileName="OnlineRetail/Models/LoginModel.cs" />
+      <File FileName="OnlineRetail/Models/Cart.cs" />
+      <File FileName="OnlineRetail/Models/CartRepository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnlineRetail" expanded="True">
+            <Node name="OnlineRetail" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
